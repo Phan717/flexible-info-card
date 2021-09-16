@@ -34,6 +34,10 @@ li {
 
 img {
   display: flex;
+  flex-direction: row;
+  width: 10%;
+}
+
   flex-direction: flex-start;
   align-items: stretch;
   flex-direction: column;
