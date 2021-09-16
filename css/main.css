@@ -41,6 +41,9 @@ img {
 h3 {
   display: flex;
   justify-content: flex-start;
+  align-items: stretch;
+  flex-direction: column;
+
 
 
 }
