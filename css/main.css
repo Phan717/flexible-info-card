@@ -4,3 +4,20 @@ html {
   font-family: "Open Sans", sans-serif;
   line-height: 1.5;
 }
+
+*,*::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  background-color: #444;
+  color: #fff;
+  width: 5rem;
+  padding: .5rem .9rem;
+  font-size: .7rem;
+  text-decoration: none;
+}
