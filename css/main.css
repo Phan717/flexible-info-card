@@ -5,7 +5,9 @@ html {
   line-height: 1.5;
 }
 
-*,*::before, *::after {
+*,
+*::before,
+*::after {
   box-sizing: inherit;
 }
 
@@ -43,7 +45,4 @@ h3 {
   justify-content: flex-start;
   align-items: stretch;
   flex-direction: column;
-
-
-
 }
