@@ -38,7 +38,9 @@ img {
   width: 10%;
 }
 
-  flex-direction: flex-start;
-  align-items: stretch;
-  flex-direction: column;
+h3 {
+  display: flex;
+  justify-content: flex-start;
+
+
 }
