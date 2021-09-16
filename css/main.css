@@ -31,3 +31,10 @@ li {
   display: flex;
   align-items: center;
 }
+
+img {
+  display: flex;
+  flex-direction: flex-start;
+  align-items: stretch;
+  flex-direction: column;
+}
